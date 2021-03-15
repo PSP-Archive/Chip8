@@ -1,0 +1,2 @@
+
+int Emulate(char *szFileName);
